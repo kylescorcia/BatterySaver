@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1052262286370",
+    "firebase_url": "https://afro-charger.firebaseio.com",
+    "project_id": "afro-charger",
+    "storage_bucket": "afro-charger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052262286370:android:48636f440e733821",
+        "android_client_info": {
+          "package_name": "com.carbonapps.afrocharger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052262286370-frb8g397t500sedplgs9s5e8h8e3q64s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQSus6fq4gGtwAz27WICec0EgY010jbD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

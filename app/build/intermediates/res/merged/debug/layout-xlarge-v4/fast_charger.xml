@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <include
+        android:id="@+id/tool_bar"
+        layout="@layout/toolbar" />
+
+    <RelativeLayout
+        android:id="@+id/afterFullCharge"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/tool_bar"
+        android:visibility="gone">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RelativeLayout
+                    android:id="@+id/roul_done"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:id="@+id/doneImage"
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:layout_centerHorizontal="true"
+                        android:padding="5dp"
+                        android:src="@drawable/check_circle_white_48dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/doneImage"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="3dp"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="Charge completed \n Please unplug the charger"
+                        android:textColor="@color/textColor"
+                        android:textSize="30sp" />
+
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/ratenow"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/roul_done"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginTop="8dp">
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/CardViewRate"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="@color/white"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:visibility="gone"
+                        card_view:cardCornerRadius="2dp">
+
+                        <RelativeLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content">
+
+                            <RelativeLayout
+                                android:id="@+id/Rlout_top"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content">
+
+                                <TextView
+                                    android:id="@+id/TxtRateTitle"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentLeft="true"
+                                    android:paddingLeft="16dp"
+                                    android:paddingRight="16dp"
+                                    android:paddingTop="24dp"
+                                    android:text="Love Afro Charger application ?"
+                                    android:textColor="@color/app_color_Dark"
+                                    android:textSize="20sp"
+                                    android:textStyle="bold" />
+
+                                <TextView
+                                    android:id="@+id/TxtRateDesc"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentLeft="true"
+                                    android:layout_below="@+id/TxtRateTitle"
+                                    android:paddingLeft="16dp"
+                                    android:paddingRight="16dp"
+                                    android:paddingTop="12dp"
+                                    android:text="Do you have a few seconds to rate 5 star this app? We want to hear your opinion. Thanks!"
+                                    android:textColor="@color/white"
+                                    android:textSize="16sp" />
+
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:id="@+id/Rlout_action"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/Rlout_top"
+                                android:padding="8dp">
+
+                                <Button
+                                    android:id="@+id/btn_feedbak"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginRight="8dp"
+                                    android:background="?android:attr/selectableItemBackground"
+                                    android:padding="8dp"
+                                    android:text="FEEDBACK"
+                                    android:textColor="@color/textColor" />
+
+                                <Button
+                                    android:id="@+id/btn_ratenow"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_toRightOf="@+id/btn_feedbak"
+                                    android:background="?android:attr/selectableItemBackground"
+                                    android:padding="8dp"
+                                    android:text="RATE 5 STAR"
+                                    android:textColor="@color/textColor" />
+                            </RelativeLayout>
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/sharenow"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/ratenow"
+                    android:layout_marginBottom="16dp"
+                    android:layout_marginTop="8dp">
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/CardViewShare"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginRight="16dp"
+                        android:backgroundTint="@color/white"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:visibility="gone"
+                        card_view:cardCornerRadius="2dp">
+
+                        <RelativeLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_margin="16dp">
+
+                            <TextView
+                                android:id="@+id/TxtShareTitle"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentLeft="true"
+                                android:layout_marginBottom="12dp"
+                                android:text="Recommend to friends"
+                                android:textColor="@color/app_color_Dark"
+                                android:textSize="20sp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/TxtShareDesc"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentLeft="true"
+                                android:layout_below="@+id/TxtShareTitle"
+                                android:layout_marginBottom="16dp"
+                                android:text="If you have a minute, can you please help us to spread in the world about Afro Charger."
+                                android:textColor="@color/textColor"
+                                android:textSize="16sp" />
+                        </RelativeLayout>
+                    </android.support.v7.widget.CardView>
+                </RelativeLayout>
+            </RelativeLayout>
+        </ScrollView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/beforeFullCharge"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/tool_bar"
+        android:visibility="visible">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none">
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/CardViewBattery"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/CardViewBatteryArc"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginTop="16dp"
+                    android:backgroundTint="@color/white"
+                    android:foreground="?android:attr/selectableItemBackground">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_margin="16dp">
+
+                        <RelativeLayout
+                            android:id="@+id/lout_battery"
+                            android:layout_width="300dp"
+                            android:layout_height="550dp"
+                            android:layout_centerHorizontal="true">
+
+                            <com.christophesmet.android.views.maskableframelayout.MaskableFrameLayout
+                                android:id="@+id/frm_mask_animated"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_gravity="center"
+                                android:layout_marginBottom="10dp"
+                                android:layout_marginLeft="16dp"
+                                android:layout_marginRight="16dp"
+                                android:layout_marginTop="15dp"
+                                app:mask="@drawable/battery_mask"
+                                app:porterduffxfermode="DST_IN">
+
+                                <cn.fanrunqi.waveprogress.WaveProgressView
+                                    android:id="@+id/waveProgressbar"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_centerHorizontal="true"
+                                    android:background="@drawable/ractangle" />
+
+                            </com.christophesmet.android.views.maskableframelayout.MaskableFrameLayout>
+
+
+                            <ImageView
+                                android:layout_width="300dp"
+                                android:layout_height="550dp"
+                                android:layout_centerHorizontal="true"
+                                android:src="@drawable/battery" />
+
+
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_width="300dp"
+                            android:layout_height="550dp"
+                            android:layout_toLeftOf="@+id/lout_battery">
+
+                            <RelativeLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerInParent="true">
+
+                                <RelativeLayout
+                                    android:id="@+id/lout_power_type"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerHorizontal="true"
+                                    android:padding="5dp">
+
+
+                                    <TextView
+                                        android:id="@+id/PowerType"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_centerVertical="true"
+                                        android:text="USB"
+                                        android:textColor="@color/textColor"
+                                        android:textSize="58sp" />
+
+                                </RelativeLayout>
+
+                                <RelativeLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="60dp"
+                                    android:layout_below="@+id/lout_power_type">
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_centerHorizontal="true"
+                                        android:layout_centerVertical="true"
+                                        android:text="Power Type"
+                                        android:textColor="@color/textColor"
+                                        android:textSize="38sp" />
+
+                                </RelativeLayout>
+                            </RelativeLayout>
+                        </RelativeLayout>
+
+
+                        <RelativeLayout
+                            android:layout_width="300dp"
+                            android:layout_height="550dp"
+                            android:layout_toRightOf="@+id/lout_battery">
+
+                            <RelativeLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerInParent="true">
+
+                                <RelativeLayout
+                                    android:id="@+id/AlertLout"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerHorizontal="true"
+                                    android:padding="10dp">
+
+                                    <ImageView
+                                        android:id="@+id/alert"
+                                        android:layout_width="120dp"
+                                        android:layout_height="120dp"
+                                        android:src="@drawable/warning" />
+
+                                    <TextView
+                                        android:id="@+id/AlertText"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_centerVertical="true"
+                                        android:layout_marginLeft="10dp"
+                                        android:layout_toRightOf="@+id/alert"
+                                        android:text="2"
+                                        android:textColor="@color/textColor"
+                                        android:textSize="78sp" />
+
+                                </RelativeLayout>
+                            </RelativeLayout>
+                        </RelativeLayout>
+                    </RelativeLayout>
+                </android.support.v7.widget.CardView>
+
+
+                <RelativeLayout
+                    android:id="@+id/abc"
+                    android:layout_width="match_parent"
+                    android:layout_height="400dp"
+                    android:layout_below="@+id/CardViewBattery">
+
+                    <RelativeLayout
+                        android:id="@+id/main_lout_tickleview"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_centerInParent="true"
+                        android:layout_marginBottom="8dp"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginRight="16dp"
+                        android:layout_marginTop="8dp">
+
+                        <android.support.v7.widget.CardView
+                            android:id="@+id/CardViewTickleview"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:backgroundTint="@color/white"
+                            android:foreground="?android:attr/selectableItemBackground"
+                            android:visibility="visible">
+
+                            <RelativeLayout
+                                android:id="@+id/lout_tickleview"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_margin="16dp">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_centerHorizontal="true"
+                                    android:layout_centerVertical="true"
+                                    android:orientation="horizontal">
+
+                                    <RelativeLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_weight="1">
+
+                                        <View
+                                            android:layout_width="match_parent"
+                                            android:layout_height="5dp"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginLeft="160dp"
+                                            android:layout_marginRight="32dp"
+                                            android:background="@color/textColor" />
+
+                                    </RelativeLayout>
+
+                                    <RelativeLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_weight="1">
+
+                                        <View
+                                            android:layout_width="match_parent"
+                                            android:layout_height="5dp"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginLeft="35dp"
+                                            android:layout_marginRight="155dp"
+                                            android:background="@color/textColor" />
+
+                                    </RelativeLayout>
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal">
+
+
+                                    <RelativeLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_weight="1">
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_centerInParent="true"
+                                            android:layout_marginLeft="10dp">
+
+                                            <ImageView
+                                                android:id="@+id/FirstTickle"
+                                                android:layout_width="100dp"
+                                                android:layout_height="100dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/ind_fast_charging" />
+
+                                            <ImageView
+                                                android:id="@+id/FirstTickleProcess"
+                                                android:layout_width="130dp"
+                                                android:layout_height="130dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/progress" />
+
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_below="@+id/FirstTickle"
+                                                android:layout_centerHorizontal="true"
+                                                android:layout_marginTop="15dp"
+                                                android:gravity="center"
+                                                android:text="Fast Charge \n on going"
+                                                android:textColor="@color/textColor"
+                                                android:textSize="20sp" />
+
+                                        </RelativeLayout>
+                                    </RelativeLayout>
+
+                                    <RelativeLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_centerInParent="true"
+                                        android:layout_weight="1">
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_centerInParent="true">
+
+                                            <ImageView
+                                                android:id="@+id/SecondTickle"
+                                                android:layout_width="100dp"
+                                                android:layout_height="100dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/ind_full_charging" />
+
+                                            <ImageView
+                                                android:id="@+id/SecondTickleProcess"
+                                                android:layout_width="130dp"
+                                                android:layout_height="130dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/progress" />
+
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_below="@+id/SecondTickle"
+                                                android:layout_centerHorizontal="true"
+                                                android:layout_marginTop="15dp"
+                                                android:gravity="center"
+                                                android:text="Full Charge \n waiting"
+                                                android:textColor="@color/textColor"
+                                                android:textSize="20sp" />
+
+                                        </RelativeLayout>
+                                    </RelativeLayout>
+
+                                    <RelativeLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_weight="1">
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_alignParentRight="true"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginRight="10dp">
+
+                                            <ImageView
+                                                android:id="@+id/ThirdTickle"
+                                                android:layout_width="100dp"
+                                                android:layout_height="100dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/ind_trickle_charging" />
+
+                                            <ImageView
+                                                android:id="@+id/ThirdTickleProcess"
+                                                android:layout_width="130dp"
+                                                android:layout_height="130dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/progress" />
+
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_below="@+id/ThirdTickle"
+                                                android:layout_centerHorizontal="true"
+                                                android:layout_marginTop="15dp"
+                                                android:gravity="center"
+                                                android:text="Trickle Charge \n waiting"
+                                                android:textColor="@color/textColor"
+                                                android:textSize="20sp" />
+
+                                        </RelativeLayout>
+                                    </RelativeLayout>
+                                </LinearLayout>
+                            </RelativeLayout>
+                        </android.support.v7.widget.CardView>
+                    </RelativeLayout>
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/CardViewTools"
+                        android:layout_width="match_parent"
+                        android:layout_height="800dp"
+                        android:layout_marginBottom="8dp"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginRight="16dp"
+                        android:layout_marginTop="8dp"
+                        android:backgroundTint="@color/white"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:visibility="visible">
+
+                        <RelativeLayout
+                            android:id="@+id/main_lout_toolsview"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_centerInParent="true">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_centerInParent="true"
+                                android:orientation="vertical"
+                                android:weightSum="2">
+
+                                <RelativeLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_weight="1">
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:orientation="horizontal"
+                                        android:weightSum="3">
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_centerInParent="true"
+                                            android:layout_weight="1">
+
+                                            <ImageView
+                                                android:id="@+id/tool_wifi"
+                                                android:layout_width="120dp"
+                                                android:layout_height="120dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/tool_wifi_on" />
+
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_below="@+id/tool_wifi"
+                                                android:layout_centerHorizontal="true"
+                                                android:text="WiFi"
+                                                android:textColor="@color/textColor"
+                                                android:textSize="25sp" />
+
+                                        </RelativeLayout>
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_centerInParent="true"
+                                            android:layout_weight="1">
+
+                                            <ImageView
+                                                android:id="@+id/tool_bluetooth"
+                                                android:layout_width="120dp"
+                                                android:layout_height="120dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/tool_bluetooth_on" />
+
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_below="@+id/tool_bluetooth"
+                                                android:layout_centerHorizontal="true"
+                                                android:text="Bluetooth"
+                                                android:textColor="@color/textColor"
+                                                android:textSize="25sp" />
+
+                                        </RelativeLayout>
+
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_centerInParent="true"
+                                            android:layout_weight="1">
+
+                                            <ImageView
+                                                android:id="@+id/tool_brightness"
+                                                android:layout_width="120dp"
+                                                android:layout_height="120dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/tool_brightness_on" />
+
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_below="@+id/tool_brightness"
+                                                android:layout_centerHorizontal="true"
+                                                android:text="Brightness"
+                                                android:textColor="@color/textColor"
+                                                android:textSize="25sp" />
+
+                                        </RelativeLayout>
+                                    </LinearLayout>
+                                </RelativeLayout>
+
+                                <RelativeLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_weight="1">
+
+                                    <LinearLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:orientation="horizontal"
+                                        android:weightSum="3">
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_centerInParent="true"
+                                            android:layout_weight="1">
+
+                                            <ImageView
+                                                android:id="@+id/tool_rotate"
+                                                android:layout_width="120dp"
+                                                android:layout_height="120dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/tool_rotate_autorotate" />
+
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_below="@+id/tool_rotate"
+                                                android:layout_centerHorizontal="true"
+                                                android:text="Rotate"
+                                                android:textColor="@color/textColor"
+                                                android:textSize="25sp" />
+
+                                        </RelativeLayout>
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_centerInParent="true"
+                                            android:layout_weight="1">
+
+                                            <ImageView
+                                                android:id="@+id/tool_mode"
+                                                android:layout_width="120dp"
+                                                android:layout_height="120dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/tool_profile_normal" />
+
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_below="@+id/tool_mode"
+                                                android:layout_centerHorizontal="true"
+                                                android:text="Mode"
+                                                android:textColor="@color/textColor"
+                                                android:textSize="25sp" />
+
+                                        </RelativeLayout>
+
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:layout_centerInParent="true"
+                                            android:layout_weight="1">
+
+                                            <ImageView
+                                                android:id="@+id/tool_timeout"
+                                                android:layout_width="120dp"
+                                                android:layout_height="120dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/tool_timeout_fourty" />
+
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_below="@+id/tool_timeout"
+                                                android:layout_centerHorizontal="true"
+                                                android:text="Time out"
+                                                android:textColor="@color/textColor"
+                                                android:textSize="25sp" />
+
+                                        </RelativeLayout>
+                                    </LinearLayout>
+                                </RelativeLayout>
+                            </LinearLayout>
+
+
+                        </RelativeLayout>
+
+
+                    </android.support.v7.widget.CardView>
+
+
+                </RelativeLayout>
+
+                <com.google.android.gms.ads.NativeExpressAdView
+                    android:id="@+id/NativeadView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/abc"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginTop="8dp"
+                    android:visibility="gone"
+                    ads:adSize="320x150"
+                    ads:adUnitId="@string/natives" />
+
+                <Button
+                    android:id="@+id/StartFastCharger"
+                    style="@style/Widget.AppCompat.Button.Colored"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/NativeadView"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@color/white"
+                    android:padding="20dp"
+                    android:text="START FAST CHARGING"
+                    android:textColor="@color/textColor"
+                    android:textSize="25sp"
+                    android:visibility="visible" />
+            </RelativeLayout>
+        </ScrollView>
+    </RelativeLayout>
+</RelativeLayout>

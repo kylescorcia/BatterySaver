@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1052262286370-frb8g397t500sedplgs9s5e8h8e3q64s.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://afro-charger.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1052262286370</string>
+    <string name="google_api_key" translatable="false">AIzaSyCQSus6fq4gGtwAz27WICec0EgY010jbD8</string>
+    <string name="google_app_id" translatable="false">1:1052262286370:android:48636f440e733821</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCQSus6fq4gGtwAz27WICec0EgY010jbD8</string>
+    <string name="google_storage_bucket" translatable="false">afro-charger.appspot.com</string>
+</resources>

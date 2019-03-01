@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\52cb559d4e4c18c2b320a2c805ae19b3c00384c9\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\936e0b62ac0012791ddaf8a038ae8a2620ecb444\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\52cb559d4e4c18c2b320a2c805ae19b3c00384c9\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\936e0b62ac0012791ddaf8a038ae8a2620ecb444\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\52cb559d4e4c18c2b320a2c805ae19b3c00384c9\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadeout.xml",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\52cb559d4e4c18c2b320a2c805ae19b3c00384c9\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\936e0b62ac0012791ddaf8a038ae8a2620ecb444\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadein.xml",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_clockwise.xml",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\anim\\rotate_clockwise.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in.xml",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in.xml",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\936e0b62ac0012791ddaf8a038ae8a2620ecb444\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\52cb559d4e4c18c2b320a2c805ae19b3c00384c9\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadeout.xml",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\936e0b62ac0012791ddaf8a038ae8a2620ecb444\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\52cb559d4e4c18c2b320a2c805ae19b3c00384c9\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\936e0b62ac0012791ddaf8a038ae8a2620ecb444\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_clockwise.xml",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\anim\\rotate_clockwise.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadein.xml",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\anim\\fadein.xml"
+    }
+]

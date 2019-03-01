@@ -1,0 +1,382 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:2:1-79:12
+	package
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:5:22-71
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:6:5-84
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:6:22-81
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.location.GPS_ENABLED_CHANGE
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.intent.action.AIRPLANE_MODE
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.INTERNET
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\mybig\.android\build-cache\1ff4dd27c25a912067793c43e8ea2a558fac2995\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\mybig\.android\build-cache\59128723f5ef5ac6f2fd559093ec0f7d29baa4ae\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:14:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\mybig\.android\build-cache\1ff4dd27c25a912067793c43e8ea2a558fac2995\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\mybig\.android\build-cache\59128723f5ef5ac6f2fd559093ec0f7d29baa4ae\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:15:5-85
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:15:22-82
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:18:9-52
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:20:5-68
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\mybig\.android\build-cache\59128723f5ef5ac6f2fd559093ec0f7d29baa4ae\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:21:22-70
+supports-screens
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:23:5-27:40
+	android:largeScreens
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:25:9-36
+	android:normalScreens
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:26:9-37
+	android:xlargeScreens
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:27:9-37
+	android:anyDensity
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:24:9-34
+application
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:29:5-77:19
+MERGED from [AfroCharger:libraryMaskLayout:unspecified] E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\libraryMaskLayout\build\intermediates\bundles\default\AndroidManifest.xml:6:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\mybig\.android\build-cache\936e0b62ac0012791ddaf8a038ae8a2620ecb444\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mybig\.android\build-cache\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mybig\.android\build-cache\bfd42c35a95760ed445455a8ddbc6a62ee068fe6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mybig\.android\build-cache\e35e70162d373673bd71311fcc6b24b3309dd841\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\mybig\.android\build-cache\4fd07537340c0f15cd66b9cbe5009250a148e826\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\mybig\.android\build-cache\b015eddba45bf99762abeca232320908b322c3ce\output\AndroidManifest.xml:26:5-20
+MERGED from [cn.fanrunqi:waveprogress:1.0.1] C:\Users\mybig\.android\build-cache\b6f1fb5f8c44be7c990eee7ec67d6f88bdad4b67\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.firebase:firebase-ads:10.0.1] C:\Users\mybig\.android\build-cache\f4b822bf8cabd84e358e380dd49a6baf22493a05\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\mybig\.android\build-cache\1ff4dd27c25a912067793c43e8ea2a558fac2995\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\mybig\.android\build-cache\2f1cae81f56b83d3f881c523c9b7eaf4b153f9c9\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\mybig\.android\build-cache\6ba9e8f6fb2aff07c23fdd80bdb8ea2729324115\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\mybig\.android\build-cache\a303a31a8bb068fd7750a4f7b299e868b58f755d\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\mybig\.android\build-cache\ee57b519ecba250dd2e4b1097f24abe22828ad59\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\mybig\.android\build-cache\59128723f5ef5ac6f2fd559093ec0f7d29baa4ae\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\mybig\.android\build-cache\8f0b3e98da9c29d9e93777e922207ab9ed9ae042\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\mybig\.android\build-cache\19aa765b6cf8a96ed443b0fd31bc205a53068971\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\mybig\.android\build-cache\a69e9f86a39324ea2e0935a945fe53118b6358b5\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mybig\.android\build-cache\b4e5e292d34ca9a13d064cce2c3974481cdb5900\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mybig\.android\build-cache\bf296b915ed55a7660321cab08a158ba749ba9d9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mybig\.android\build-cache\f56af0bfbd284baebaa225f6c8f1e776776c3857\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mybig\.android\build-cache\7ab0627870b4d201e9b24656d85a8753c3a3aafb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mybig\.android\build-cache\e904302c3dedb2f6c222d52feb1925a644a3fc97\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mybig\.android\build-cache\dd8d958ec45d86e4e282e798717f534b5301b6e4\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:32:9-41
+	android:supportsRtl
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:33:9-35
+	android:allowBackup
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:31:9-43
+	android:theme
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:34:9-40
+activity#com.carbonapps.afrocharger.MainActivity
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:35:9-41:20
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:35:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:39:27-74
+receiver#com.carbonapps.afrocharger.BatteryReciver
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:43:9-47:20
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:43:19-49
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:44:13-46:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:45:17-87
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:45:25-84
+activity#com.carbonapps.afrocharger.FastCharger
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:49:9-51:52
+	android:screenOrientation
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:51:13-49
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:50:13-40
+activity#com.carbonapps.afrocharger.BatteryDetailActivity
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:52:9-54:52
+	android:screenOrientation
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:53:13-50
+activity#com.carbonapps.afrocharger.CloseAllTools
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:55:9-57:52
+	android:screenOrientation
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:57:13-49
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:56:13-42
+activity#com.carbonapps.afrocharger.LicenseActivity
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:58:9-60:52
+	android:screenOrientation
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:60:13-49
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:59:13-44
+activity#com.carbonapps.afrocharger.AboutActivity
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:61:9-63:52
+	android:screenOrientation
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:62:13-42
+activity#com.carbonapps.afrocharger.SettingPrefrence
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:64:9-66:52
+	android:screenOrientation
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:66:13-49
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:65:13-45
+meta-data#com.google.android.gms.version
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:68:9-70:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\mybig\.android\build-cache\a69e9f86a39324ea2e0935a945fe53118b6358b5\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:70:13-66
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:69:13-58
+activity#com.google.android.gms.ads.AdActivity
+ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:72:9-75:64
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\mybig\.android\build-cache\1ff4dd27c25a912067793c43e8ea2a558fac2995\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:74:13-122
+	android:theme
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:75:13-61
+	android:name
+		ADDED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:73:13-65
+uses-sdk
+INJECTED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\mybig\.android\build-cache\936e0b62ac0012791ddaf8a038ae8a2620ecb444\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mybig\.android\build-cache\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mybig\.android\build-cache\bfd42c35a95760ed445455a8ddbc6a62ee068fe6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mybig\.android\build-cache\e35e70162d373673bd71311fcc6b24b3309dd841\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\mybig\.android\build-cache\f3098ad4af46d9c190c4ad310408462dca8491a4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\mybig\.android\build-cache\4fd07537340c0f15cd66b9cbe5009250a148e826\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\mybig\.android\build-cache\b015eddba45bf99762abeca232320908b322c3ce\output\AndroidManifest.xml:20:5-43
+MERGED from [com.github.lzyzsd:circleprogress:1.1.0] C:\Users\mybig\.android\build-cache\cd5a67bc1e91d24ccff2f279d28f032e95cd1773\output\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.fanrunqi:waveprogress:1.0.1] C:\Users\mybig\.android\build-cache\b6f1fb5f8c44be7c990eee7ec67d6f88bdad4b67\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-ads:10.0.1] C:\Users\mybig\.android\build-cache\f4b822bf8cabd84e358e380dd49a6baf22493a05\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\mybig\.android\build-cache\e94952df8ea45645ceddfa06cb2eba6b07d87366\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\mybig\.android\build-cache\1ff4dd27c25a912067793c43e8ea2a558fac2995\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\mybig\.android\build-cache\2f1cae81f56b83d3f881c523c9b7eaf4b153f9c9\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\mybig\.android\build-cache\6ba9e8f6fb2aff07c23fdd80bdb8ea2729324115\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\mybig\.android\build-cache\a303a31a8bb068fd7750a4f7b299e868b58f755d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\mybig\.android\build-cache\ee57b519ecba250dd2e4b1097f24abe22828ad59\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\mybig\.android\build-cache\59128723f5ef5ac6f2fd559093ec0f7d29baa4ae\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\mybig\.android\build-cache\8f0b3e98da9c29d9e93777e922207ab9ed9ae042\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\mybig\.android\build-cache\19aa765b6cf8a96ed443b0fd31bc205a53068971\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\mybig\.android\build-cache\a69e9f86a39324ea2e0935a945fe53118b6358b5\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mybig\.android\build-cache\b4e5e292d34ca9a13d064cce2c3974481cdb5900\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mybig\.android\build-cache\bf296b915ed55a7660321cab08a158ba749ba9d9\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mybig\.android\build-cache\f56af0bfbd284baebaa225f6c8f1e776776c3857\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mybig\.android\build-cache\7ab0627870b4d201e9b24656d85a8753c3a3aafb\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mybig\.android\build-cache\e904302c3dedb2f6c222d52feb1925a644a3fc97\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mybig\.android\build-cache\dd8d958ec45d86e4e282e798717f534b5301b6e4\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\mybig\.android\build-cache\936e0b62ac0012791ddaf8a038ae8a2620ecb444\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:2:1-79:12 reason: com.christophesmet.android.view.maskablelayout has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:2:1-79:12 reason: com.christophesmet.android.view.maskablelayout has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from E:\Freelancer\didi3_ge\AfroCharger_completed\AfroCharger\app\src\main\AndroidManifest.xml:2:1-79:12 reason: com.christophesmet.android.view.maskablelayout requested WRITE_EXTERNAL_STORAGE
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\mybig\.android\build-cache\936e0b62ac0012791ddaf8a038ae8a2620ecb444\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\mybig\.android\build-cache\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\mybig\.android\build-cache\bfd42c35a95760ed445455a8ddbc6a62ee068fe6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\mybig\.android\build-cache\e35e70162d373673bd71311fcc6b24b3309dd841\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\mybig\.android\build-cache\f3098ad4af46d9c190c4ad310408462dca8491a4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\mybig\.android\build-cache\4fd07537340c0f15cd66b9cbe5009250a148e826\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\mybig\.android\build-cache\b015eddba45bf99762abeca232320908b322c3ce\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mybig\.android\build-cache\b4e5e292d34ca9a13d064cce2c3974481cdb5900\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mybig\.android\build-cache\bf296b915ed55a7660321cab08a158ba749ba9d9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mybig\.android\build-cache\f56af0bfbd284baebaa225f6c8f1e776776c3857\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mybig\.android\build-cache\7ab0627870b4d201e9b24656d85a8753c3a3aafb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mybig\.android\build-cache\e904302c3dedb2f6c222d52feb1925a644a3fc97\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mybig\.android\build-cache\dd8d958ec45d86e4e282e798717f534b5301b6e4\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\mybig\.android\build-cache\936e0b62ac0012791ddaf8a038ae8a2620ecb444\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\mybig\.android\build-cache\936e0b62ac0012791ddaf8a038ae8a2620ecb444\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\mybig\.android\build-cache\1ff4dd27c25a912067793c43e8ea2a558fac2995\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\mybig\.android\build-cache\1ff4dd27c25a912067793c43e8ea2a558fac2995\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\mybig\.android\build-cache\1ff4dd27c25a912067793c43e8ea2a558fac2995\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\mybig\.android\build-cache\6ba9e8f6fb2aff07c23fdd80bdb8ea2729324115\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\mybig\.android\build-cache\6ba9e8f6fb2aff07c23fdd80bdb8ea2729324115\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\mybig\.android\build-cache\6ba9e8f6fb2aff07c23fdd80bdb8ea2729324115\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\mybig\.android\build-cache\6ba9e8f6fb2aff07c23fdd80bdb8ea2729324115\output\AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\mybig\.android\build-cache\59128723f5ef5ac6f2fd559093ec0f7d29baa4ae\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\mybig\.android\build-cache\59128723f5ef5ac6f2fd559093ec0f7d29baa4ae\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\mybig\.android\build-cache\2b04d42d255bcbdd2222ef6596e6d6f786bca74b\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\mybig\.android\build-cache\66a3b4d709cceb8e116c9c8171e2da0484bea506\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\mybig\.android\build-cache\8f0b3e98da9c29d9e93777e922207ab9ed9ae042\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\mybig\.android\build-cache\8f0b3e98da9c29d9e93777e922207ab9ed9ae042\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\mybig\.android\build-cache\8f0b3e98da9c29d9e93777e922207ab9ed9ae042\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\mybig\.android\build-cache\8f0b3e98da9c29d9e93777e922207ab9ed9ae042\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\mybig\.android\build-cache\8f0b3e98da9c29d9e93777e922207ab9ed9ae042\output\AndroidManifest.xml:6:79-143

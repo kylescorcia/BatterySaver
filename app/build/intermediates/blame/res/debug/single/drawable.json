@@ -1,0 +1,650 @@
+[
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\6ba9e8f6fb2aff07c23fdd80bdb8ea2729324115\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\52cb559d4e4c18c2b320a2c805ae19b3c00384c9\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_profile_silent.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_profile_silent.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\52cb559d4e4c18c2b320a2c805ae19b3c00384c9\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ractangle.xml",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\ractangle.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_brightness_off.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_brightness_off.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\936e0b62ac0012791ddaf8a038ae8a2620ecb444\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\4bb926b2e87c01e275241e996dfc3c881461bf63\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_circle_white_48dp.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\check_circle_white_48dp.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ractangle.xml",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\ractangle.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\battery.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\battery.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_timeout_thirty.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_timeout_thirty.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_wifi_on.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_wifi_on.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ind_full_charging.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\ind_full_charging.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_profile_normal.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_profile_normal.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_bluetooth_on.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_bluetooth_on.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\936e0b62ac0012791ddaf8a038ae8a2620ecb444\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_timeout_thirty.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_timeout_thirty.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\4bb926b2e87c01e275241e996dfc3c881461bf63\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\4bb926b2e87c01e275241e996dfc3c881461bf63\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\battery_health.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\battery_health.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_timeout_fourty.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_timeout_fourty.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\progress.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_profile_silent.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_profile_silent.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\battery_level.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\battery_level.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_timeout_twenty.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_timeout_twenty.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_bluetooth_off.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_bluetooth_off.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ind_full_charging.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\ind_full_charging.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_brightness_off.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_brightness_off.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ind_fast_charging.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\ind_fast_charging.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voltage.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\voltage.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\6ba9e8f6fb2aff07c23fdd80bdb8ea2729324115\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\6ba9e8f6fb2aff07c23fdd80bdb8ea2729324115\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\progress.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ind_trickle_charging.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\ind_trickle_charging.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\4bb926b2e87c01e275241e996dfc3c881461bf63\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_rotate_portiat.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_rotate_portiat.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_rotate_portiat.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_rotate_portiat.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\52cb559d4e4c18c2b320a2c805ae19b3c00384c9\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_timeout_ten.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_timeout_ten.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\4bb926b2e87c01e275241e996dfc3c881461bf63\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_wifi_off.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_wifi_off.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_timeout_twenty.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_timeout_twenty.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\technology.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\technology.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temperature.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\temperature.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_timeout_fourty.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_timeout_fourty.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\battery_mask.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\battery_mask.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\6ba9e8f6fb2aff07c23fdd80bdb8ea2729324115\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_profile_normal.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_profile_normal.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temperature.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\temperature.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\6ba9e8f6fb2aff07c23fdd80bdb8ea2729324115\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\battery_health.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\battery_health.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\battery.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\battery.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_rotate_autorotate.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_rotate_autorotate.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_profile_vibrate.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_profile_vibrate.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ind_trickle_charging.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\ind_trickle_charging.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_bluetooth_off.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_bluetooth_off.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_wifi_off.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_wifi_off.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\6ba9e8f6fb2aff07c23fdd80bdb8ea2729324115\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\4bb926b2e87c01e275241e996dfc3c881461bf63\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\battery_level.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\battery_level.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\6ba9e8f6fb2aff07c23fdd80bdb8ea2729324115\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\4bb926b2e87c01e275241e996dfc3c881461bf63\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_profile_vibrate.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_profile_vibrate.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_wifi_on.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_wifi_on.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\936e0b62ac0012791ddaf8a038ae8a2620ecb444\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\936e0b62ac0012791ddaf8a038ae8a2620ecb444\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_bluetooth_on.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_bluetooth_on.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\52cb559d4e4c18c2b320a2c805ae19b3c00384c9\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\6ba9e8f6fb2aff07c23fdd80bdb8ea2729324115\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voltage.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\voltage.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_brightness_on.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_brightness_on.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\battery_mask.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\battery_mask.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ind_fast_charging.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\ind_fast_charging.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\4bb926b2e87c01e275241e996dfc3c881461bf63\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\technology.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\technology.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\936e0b62ac0012791ddaf8a038ae8a2620ecb444\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\52cb559d4e4c18c2b320a2c805ae19b3c00384c9\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_brightness_on.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_brightness_on.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\ecd5ae15b3b8e61780a0bc88833b053595b294be\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_circle_white_48dp.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\check_circle_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_timeout_ten.png",
+        "source": "C:\\Users\\mybig\\Documents\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_timeout_ten.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tool_rotate_autorotate.png",
+        "source": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\src\\main\\res\\drawable\\tool_rotate_autorotate.png"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Freelancer\\didi3_ge\\AfroCharger_completed\\AfroCharger\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\mybig\\.android\\build-cache\\eb19bdffccc5220b5e63c9d1aeacbdab238c9a8f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    }
+]

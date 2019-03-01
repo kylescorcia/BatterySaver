@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.carbonapps.afrocharger.prefrence.mPreferenceCatagory
+        android:textColor="#F44336"
+        android:title="About Application">
+
+        <com.carbonapps.afrocharger.prefrence.mPreference
+            android:key="MoreApp"
+            android:summary="Get more application from Afro Charger"
+            android:title="More Application" />
+
+        <com.carbonapps.afrocharger.prefrence.mPreference
+            android:key="RateUs"
+            android:summary="Do you have a few seconds to rate this app? We want to hear your opinion"
+            android:title="Rate 5 Star" />
+
+        <com.carbonapps.afrocharger.prefrence.mPreference
+            android:key="ShareApp"
+            android:summary="Can you please help us to spread in the world about Afro Charger"
+            android:title="Recommend to friends" />
+
+        <com.carbonapps.afrocharger.prefrence.mPreference
+            android:key="About"
+            android:summary="About Afro Charger"
+            android:title="About us" />
+
+        <com.carbonapps.afrocharger.prefrence.mPreference
+            android:key="FeedBack"
+            android:summary="Please give us feedback and any suggetion about Afro Charger"
+            android:title="Feedback" />
+
+        <com.carbonapps.afrocharger.prefrence.mPreference
+            android:key="Version"
+            android:summary="0.0.0"
+            android:title="Version" />
+
+        <com.carbonapps.afrocharger.prefrence.mPreference
+            android:key="Update"
+            android:summary="Check for new update"
+            android:title="Update" />
+
+    </com.carbonapps.afrocharger.prefrence.mPreferenceCatagory>
+
+    <com.carbonapps.afrocharger.prefrence.mPreferenceCatagory
+        android:textColor="#F44336"
+        android:title="Licence">
+
+        <com.carbonapps.afrocharger.prefrence.mPreference
+            android:key="Licence"
+            android:summary="Licence"
+            android:title="Licence" />
+
+    </com.carbonapps.afrocharger.prefrence.mPreferenceCatagory>
+
+</PreferenceScreen>
